@@ -1,4 +1,4 @@
-Settings	sector	C:\Users\nathalie\Documents\EuroScope\United Arab Emirates\VATUAE.sct
+Settings	sector	UAE\Data\Sector\UAE.sct
 Settings	Settingsfile	UAE\Data\Settings\Observer\General.txt
 Settings	SettingsfileSYMBOLOGY	UAE\Data\Settings\Symbology.txt
 Settings	SettingsfileVOICE	UAE\Data\Settings\Local\Observer\Voice.txt
@@ -15,17 +15,3 @@ Settings	SettingsfileSCREEN	UAE\Data\Settings\Observer\ScreenLayout.txt
 Settings	AtisFolder	UAE\Data\ATIS\atisfiles.txt
 Plugins	Plugin0	UAE\Data\Plugins\VirtualControllerAssistant.dll
 RecentFiles	Recent1	UAE\Data\ASR\Observer\Observer.asr
-LastSession	connecttype	0
-LastSession	callsign	CK_OBS
-LastSession	facility	0
-LastSession	rating	4
-LastSession	tovatsim	1
-LastSession	atis2	UAE ATC OBSERVER
-LastSession	range	100
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
-LastSession	realname	Chriss Klosowski
-LastSession	certificate	1306415
-LastSession	password	Mhr494Dt
-LastSession	server	SINGAPORE
-LastSession	atis_airport	OMDB

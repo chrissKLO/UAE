@@ -122,3 +122,4 @@ m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
 m_RubberHeadingRounding:5
+SqawkForSModeTransponder:

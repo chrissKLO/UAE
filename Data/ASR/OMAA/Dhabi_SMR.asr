@@ -1,0 +1,323 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:UAE\Data\Sector\UAE.sct
+SECTORTITLE:UAE.sct
+Free Text:ABU DHABI GROUND misc\ADAT APRON:freetext
+Free Text:ABU DHABI GROUND misc\AMIRI FLIGHT APRON:freetext
+Free Text:ABU DHABI GROUND misc\CARGO:freetext
+Free Text:ABU DHABI GROUND misc\GA:freetext
+Free Text:ABU DHABI GROUND misc\Terminal 1:freetext
+Free Text:ABU DHABI GROUND misc\Terminal 2:freetext
+Free Text:ABU DHABI GROUND misc\Terminal 3:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A:freetext
+Free Text:ABU DHABI GROUND taxi\A1:freetext
+Free Text:ABU DHABI GROUND taxi\A10:freetext
+Free Text:ABU DHABI GROUND taxi\A11:freetext
+Free Text:ABU DHABI GROUND taxi\A13:freetext
+Free Text:ABU DHABI GROUND taxi\A14:freetext
+Free Text:ABU DHABI GROUND taxi\A16:freetext
+Free Text:ABU DHABI GROUND taxi\A17:freetext
+Free Text:ABU DHABI GROUND taxi\A18:freetext
+Free Text:ABU DHABI GROUND taxi\A2:freetext
+Free Text:ABU DHABI GROUND taxi\A3:freetext
+Free Text:ABU DHABI GROUND taxi\A5:freetext
+Free Text:ABU DHABI GROUND taxi\A6:freetext
+Free Text:ABU DHABI GROUND taxi\A8:freetext
+Free Text:ABU DHABI GROUND taxi\Apron 7:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\B:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C:freetext
+Free Text:ABU DHABI GROUND taxi\C2:freetext
+Free Text:ABU DHABI GROUND taxi\C3:freetext
+Free Text:ABU DHABI GROUND taxi\C4:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D:freetext
+Free Text:ABU DHABI GROUND taxi\D10:freetext
+Free Text:ABU DHABI GROUND taxi\D2:freetext
+Free Text:ABU DHABI GROUND taxi\D3:freetext
+Free Text:ABU DHABI GROUND taxi\D4:freetext
+Free Text:ABU DHABI GROUND taxi\D6:freetext
+Free Text:ABU DHABI GROUND taxi\D7:freetext
+Free Text:ABU DHABI GROUND taxi\D8:freetext
+Free Text:ABU DHABI GROUND taxi\D9:freetext
+Free Text:ABU DHABI GROUND taxi\E:freetext
+Free Text:ABU DHABI GROUND taxi\E:freetext
+Free Text:ABU DHABI GROUND taxi\E1:freetext
+Free Text:ABU DHABI GROUND taxi\E10:freetext
+Free Text:ABU DHABI GROUND taxi\E10:freetext
+Free Text:ABU DHABI GROUND taxi\E11:freetext
+Free Text:ABU DHABI GROUND taxi\E12:freetext
+Free Text:ABU DHABI GROUND taxi\E12:freetext
+Free Text:ABU DHABI GROUND taxi\E13:freetext
+Free Text:ABU DHABI GROUND taxi\E13:freetext
+Free Text:ABU DHABI GROUND taxi\E14:freetext
+Free Text:ABU DHABI GROUND taxi\E14:freetext
+Free Text:ABU DHABI GROUND taxi\E15:freetext
+Free Text:ABU DHABI GROUND taxi\E15:freetext
+Free Text:ABU DHABI GROUND taxi\E2:freetext
+Free Text:ABU DHABI GROUND taxi\E3:freetext
+Free Text:ABU DHABI GROUND taxi\E3:freetext
+Free Text:ABU DHABI GROUND taxi\E4:freetext
+Free Text:ABU DHABI GROUND taxi\E5:freetext
+Free Text:ABU DHABI GROUND taxi\E6:freetext
+Free Text:ABU DHABI GROUND taxi\E6:freetext
+Free Text:ABU DHABI GROUND taxi\E7:freetext
+Free Text:ABU DHABI GROUND taxi\E7:freetext
+Free Text:ABU DHABI GROUND taxi\E8:freetext
+Free Text:ABU DHABI GROUND taxi\E8:freetext
+Free Text:ABU DHABI GROUND taxi\E9:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F:freetext
+Free Text:ABU DHABI GROUND taxi\F1:freetext
+Free Text:ABU DHABI GROUND taxi\F2:freetext
+Free Text:ABU DHABI GROUND taxi\F3:freetext
+Free Text:ABU DHABI GROUND taxi\F4:freetext
+Free Text:ABU DHABI GROUND taxi\F5:freetext
+Free Text:ABU DHABI GROUND taxi\F6:freetext
+Free Text:ABU DHABI GROUND taxi\G:freetext
+Free Text:ABU DHABI GROUND taxi\G:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\H:freetext
+Free Text:ABU DHABI GROUND taxi\K:freetext
+Free Text:ABU DHABI GROUND taxi\L3:freetext
+Free Text:ABU DHABI GROUND taxi\L4:freetext
+Free Text:ABU DHABI GROUND taxi\M:freetext
+Free Text:ABU DHABI GROUND taxi\N:freetext
+Free Text:ABU DHABI GROUND taxi\Z:freetext
+Free Text:ABU DHABI GROUND taxi\Z1:freetext
+Free Text:ABU DHABI GROUND taxi\Z2:freetext
+Free Text:ABU DHABI GROUND taxi\Z3:freetext
+Free Text:OMAA\1:freetext
+Free Text:OMAA\1:freetext
+Free Text:OMAA\10:freetext
+Free Text:OMAA\101:freetext
+Free Text:OMAA\102:freetext
+Free Text:OMAA\103:freetext
+Free Text:OMAA\11:freetext
+Free Text:OMAA\11:freetext
+Free Text:OMAA\111:freetext
+Free Text:OMAA\112:freetext
+Free Text:OMAA\113:freetext
+Free Text:OMAA\12:freetext
+Free Text:OMAA\12:freetext
+Free Text:OMAA\12:freetext
+Free Text:OMAA\121:freetext
+Free Text:OMAA\122:freetext
+Free Text:OMAA\123:freetext
+Free Text:OMAA\13:freetext
+Free Text:OMAA\13:freetext
+Free Text:OMAA\13:freetext
+Free Text:OMAA\131:freetext
+Free Text:OMAA\132:freetext
+Free Text:OMAA\133:freetext
+Free Text:OMAA\134:freetext
+Free Text:OMAA\136:freetext
+Free Text:OMAA\14:freetext
+Free Text:OMAA\14:freetext
+Free Text:OMAA\15:freetext
+Free Text:OMAA\16:freetext
+Free Text:OMAA\17:freetext
+Free Text:OMAA\18:freetext
+Free Text:OMAA\19:freetext
+Free Text:OMAA\2:freetext
+Free Text:OMAA\2:freetext
+Free Text:OMAA\20:freetext
+Free Text:OMAA\201:freetext
+Free Text:OMAA\202:freetext
+Free Text:OMAA\203:freetext
+Free Text:OMAA\204:freetext
+Free Text:OMAA\205:freetext
+Free Text:OMAA\206:freetext
+Free Text:OMAA\207:freetext
+Free Text:OMAA\208:freetext
+Free Text:OMAA\209:freetext
+Free Text:OMAA\21:freetext
+Free Text:OMAA\221:freetext
+Free Text:OMAA\222:freetext
+Free Text:OMAA\25:freetext
+Free Text:OMAA\26:freetext
+Free Text:OMAA\27:freetext
+Free Text:OMAA\3:freetext
+Free Text:OMAA\3:freetext
+Free Text:OMAA\301:freetext
+Free Text:OMAA\302:freetext
+Free Text:OMAA\303:freetext
+Free Text:OMAA\304:freetext
+Free Text:OMAA\305:freetext
+Free Text:OMAA\306:freetext
+Free Text:OMAA\307:freetext
+Free Text:OMAA\308:freetext
+Free Text:OMAA\309:freetext
+Free Text:OMAA\4:freetext
+Free Text:OMAA\4:freetext
+Free Text:OMAA\401:freetext
+Free Text:OMAA\402:freetext
+Free Text:OMAA\403:freetext
+Free Text:OMAA\404:freetext
+Free Text:OMAA\405:freetext
+Free Text:OMAA\406:freetext
+Free Text:OMAA\407:freetext
+Free Text:OMAA\408:freetext
+Free Text:OMAA\409:freetext
+Free Text:OMAA\410:freetext
+Free Text:OMAA\411:freetext
+Free Text:OMAA\412:freetext
+Free Text:OMAA\413:freetext
+Free Text:OMAA\414:freetext
+Free Text:OMAA\415:freetext
+Free Text:OMAA\416:freetext
+Free Text:OMAA\417:freetext
+Free Text:OMAA\418:freetext
+Free Text:OMAA\419:freetext
+Free Text:OMAA\449:freetext
+Free Text:OMAA\450:freetext
+Free Text:OMAA\451:freetext
+Free Text:OMAA\452:freetext
+Free Text:OMAA\453:freetext
+Free Text:OMAA\5:freetext
+Free Text:OMAA\5:freetext
+Free Text:OMAA\508:freetext
+Free Text:OMAA\509:freetext
+Free Text:OMAA\510:freetext
+Free Text:OMAA\511:freetext
+Free Text:OMAA\512:freetext
+Free Text:OMAA\513:freetext
+Free Text:OMAA\514:freetext
+Free Text:OMAA\515:freetext
+Free Text:OMAA\516:freetext
+Free Text:OMAA\6:freetext
+Free Text:OMAA\6:freetext
+Free Text:OMAA\7:freetext
+Free Text:OMAA\704:freetext
+Free Text:OMAA\705:freetext
+Free Text:OMAA\706:freetext
+Free Text:OMAA\707:freetext
+Free Text:OMAA\708:freetext
+Free Text:OMAA\709:freetext
+Free Text:OMAA\710:freetext
+Free Text:OMAA\711:freetext
+Free Text:OMAA\712:freetext
+Free Text:OMAA\713:freetext
+Free Text:OMAA\714:freetext
+Free Text:OMAA\715:freetext
+Free Text:OMAA\8:freetext
+Free Text:OMAA\801:freetext
+Free Text:OMAA\802:freetext
+Free Text:OMAA\803:freetext
+Free Text:OMAA\804:freetext
+Free Text:OMAA\805:freetext
+Free Text:OMAA\9:freetext
+Free Text:OMAA\901:freetext
+Free Text:OMAA\902:freetext
+Free Text:OMAA\903:freetext
+Free Text:OMAA\904:freetext
+Free Text:OMAA\905:freetext
+Free Text:OMAA\906:freetext
+Free Text:OMAA\907:freetext
+Free Text:OMAA\908:freetext
+Free Text:OMAA\909:freetext
+Free Text:OMAA\910:freetext
+Free Text:OMAA\911:freetext
+Free Text:OMAA\912:freetext
+Free Text:OMAA\913:freetext
+Free Text:OMAA\914:freetext
+Free Text:OMAA\915:freetext
+Free Text:OMAA\916:freetext
+Free Text:OMAA\917:freetext
+Free Text:OMAA\918:freetext
+Free Text:OMAA\919:freetext
+Free Text:OMAA\920:freetext
+Free Text:OMAA\921:freetext
+Free Text:OMAA\922:freetext
+Free Text:OMAA\923:freetext
+Free Text:OMAA\924:freetext
+Free Text:OMAA\925:freetext
+Free Text:OMAA\926:freetext
+Free Text:OMAA\927:freetext
+Free Text:OMAA\928:freetext
+Free Text:OMAA\929:freetext
+Free Text:OMAA\930:freetext
+Free Text:OMAA\931:freetext
+Free Text:OMAA\932:freetext
+Free Text:OMAA\933:freetext
+Free Text:OMAA\934:freetext
+Free Text:OMAA\935:freetext
+Free Text:OMAA\936:freetext
+Free Text:OMAA\937:freetext
+Free Text:OMAA\938:freetext
+Free Text:OMAA\939:freetext
+Free Text:OMAA\940:freetext
+Free Text:OMAA\941:freetext
+Free Text:OMAA\942:freetext
+Free Text:OMAA\943:freetext
+Free Text:OMAA\944:freetext
+Free Text:OMAA\945:freetext
+Free Text:OMAA\946:freetext
+Free Text:OMAA\947:freetext
+Free Text:OMAA\948:freetext
+Free Text:OMAA\949:freetext
+Free Text:OMAA\G28:freetext
+Free Text:OMAA\G29:freetext
+Geo:OMAA 0:
+Regions:OMAA_SMR:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:321.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:24.420091:54.601358:24.466746:54.698111
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:OMAA
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

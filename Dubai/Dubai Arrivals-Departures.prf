@@ -1,0 +1,39 @@
+Settings	sector	UAE\Data\Sector\UAE.sct
+Settings	Settingsfile	UAE\Data\Settings\Tower_Approach\General.txt
+Settings	SettingsfileSYMBOLOGY	UAE\Data\Settings\Symbology.txt
+Settings	SettingsfileVOICE	UAE\Data\Settings\Local\OMDB\Voice.txt
+Settings	SettingsfilePROFILE	UAE\Data\Settings\Local\OMDB\Profiles.txt
+Settings	SettingsfileTAGS	UAE\Data\Settings\Tags.txt
+Settings	SettingsfileSIL	UAE\Data\Settings\Tower_Approach\SectorInboundList.txt
+Settings	SettingsfileSEL	UAE\Data\Settings\Tower_Approach\SectorExitList.txt
+Settings	SettingsfileDEP	UAE\Data\Settings\Tower_Approach\DepartureList.txt
+Settings	SettingsfileARR	UAE\Data\Settings\Tower_Approach\Arrival List.txt
+Settings	SettingsfileFP	UAE\Data\Settings\Tower_Approach\FlightPlanList.txt
+Settings	SettingsfileCONFLICT	UAE\Data\Settings\Tower_Approach\ConflictList.txt
+Settings	SettingsfilePLUGINS	UAE\Data\Settings\PlugIns.txt
+Settings	SettingsfileSCREEN	UAE\Data\Settings\Tower_Approach\ScreenLayout.txt
+Settings	SettingsfileVCCS	UAE\Data\Settings\VCCS.txt
+Settings	AtisFolder	UAE\Data\ATIS\atisfiles.txt
+Plugins	Plugin0	UAE\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin1	UAE\Data\Plugins\vSMR_1.3.3\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin2	UAE\Data\Plugins\HoldingList\HoldingListPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+ASRFastKeys	1	UAE\Data\ASR\OMDB\Dubai_Radar1.asr
+ASRFastKeys	2	UAE\Data\ASR\OMDB\Dubai_Radar2.asr
+ASRFastKeys	3	UAE\Data\ASR\OMDB\Dubai_Radar3.asr
+ASRFastKeys	4	UAE\Data\ASR\OMDB\Dubai_Radar4.asr
+ASRFastKeys	5	UAE\Data\ASR\OMDB\Dubai_Radar5.asr
+ASRFastKeys	6	UAE\Data\ASR\OMDB\Dubai_Radar6.asr
+ASRFastKeys	7	UAE\Data\ASR\OMDB\Dubai_SMR.asr
+ASRFastKeys	8	UAE\Data\ASR\OMSJ\Sharjah_SMR.asr
+ASRFastKeys	9	UAE\Data\ASR\OMDW\Maktoum_SMR.asr
+RecentFiles	Recent1	UAE\Data\ASR\OMDB\Dubai_Radar1.asr
+RecentFiles	Recent2	UAE\Data\ASR\OMSJ\Sharjah_SMR.asr
+RecentFiles	Recent3	UAE\Data\ASR\OMDB\Dubai_SMR.asr
+RecentFiles	Recent4	UAE\Data\ASR\OMDB\Dubai_Radar6.asr
+RecentFiles	Recent5	UAE\Data\ASR\OMDB\Dubai_Radar5.asr
+RecentFiles	Recent6	UAE\Data\ASR\OMDB\Dubai_Radar4.asr
+RecentFiles	Recent7	UAE\Data\ASR\OMDB\Dubai_Radar3.asr
+RecentFiles	Recent8	UAE\Data\ASR\OMDB\Dubai_Radar2.asr
+RecentFiles	Recent9	UAE\Data\ASR\OMDW\Maktoum_SMR.asr
