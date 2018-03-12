@@ -28,14 +28,14 @@ The controller pack uses a complex directory system so installing it in the righ
 6. Euroscope will open the sector file.
 7. For a how-to on using Euroscope, please visit: http://www.euroscope.hu/Docs/EuroScope_in_30_minutes.pdf
 
-###Updating AIRAC
+### Updating AIRAC
 Updating the AIRAC is necessary as airport airways, fixes, SIDs, and STARs change from time to time. If you are simply updating the AIRAC on the sector file, follow the instructions below
 
 1. Download the zip file of this sector file by clicking the Download Zip button on the right side.
 2. Extract the zip file anywhere on your computer.
 3. Open the extracted file and extract UAE.sct and UAE.ese at UAE\Data\Sectors and make sure to overwrite! This will not change your settings.
 
-##Support
+## Support
 For support on sector files, contact the VATME Support Team at: http://support.vatme.net
 
 ***Sector files are property of VATSIM (www.vatsim.net) and VATME (www.vatme.net)***
