@@ -9,6 +9,7 @@ AG:Abu Dhabi Arrivals:135.350:voice1.vatsim-germany.org:omaa_app
 AG:Abu Dhabi Arrivals (East Sector):132.675:voice1.vatsim-germany.org:omaa_e_app
 AG:Abu Dhabi Arrivals (West Sector):128.100:voice1.vatsim-germany.org:omaa_w_app
 AG:Abu Dhabi Radar:124.400:voice1.vatsim-germany.org:omaa_c_app
+AG:Abu Dhabi Al Bateen Tower:119.850:voice1.vatsim-germany.org:omad_twr
 AG:UAE Radar (DESDI Holding Stack):120.250:voice1.vatsim-germany.org:ae_des_ctr
 AG:UAE Radar (BUBIN Holding Stack):126.025:voice1.vatsim-germany.org:ae_bub_ctr
 AG:UAE Radar (XAKUM Holding Stack):118.925:voice1.vatsim-germany.org:ae_xak_ctr
@@ -31,6 +32,7 @@ AG:Dubai Ground:118.350:voice1.vatsim-germany.org:OMDB_GND
 AG:Dubai Ground (South):118.350:voice1.vatsim-germany.org:OMDB_S_GND
 AG:Dubai Ground (North):121.650:voice1.vatsim-germany.org:OMDB_N_GND
 AG:Dubai Tower:118.750:voice1.vatsim-germany.org:OMDB_TWR
+AG:Dubai Tower (South):119.550:voice1.vatsim-germany.org:omdb_s_twr
 AG:Dubai Departures:126.200:voice1.vatsim-germany.org:omdb_dep
 AG:Dubai Departures (South Sector):121.025:voice1.vatsim-germany.org:OMDB_S_DEP
 AG:Dubai Departures (North Sector):126.200:voice1.vatsim-germany.org:OMDB_N_DEP
@@ -49,4 +51,8 @@ AG:Ras Al Khaimah Information:126.075:voice1.vatsim-germany.org:OMRK_ATIS
 AG:Sharjah Intl. Information:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
 AG:Sharjah Tower:118.600:voice1.vatsim-germany.org:OMSJ_TWR
 AG:Sharjah Ground:121.875:voice1.vatsim-germany.org:OMSJ_GND
+AG:World Central Tower:118.620:voice1.vatsim-germany.org:omdw_twr
+AG:Al-Ain Ground:129.150:voice1.vatsim-germany.org:omal_gnd
+AG:Al-Ain Tower:119.850:voice1.vatsim-germany.org:omal_twr
+AG:Al-Ain Approach:132.670:voice1.vatsim-germany.org:omal_app
 END
