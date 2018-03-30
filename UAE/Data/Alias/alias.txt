@@ -1,19 +1,16 @@
 ********************************************************
 Alias:    	U.A.E Controller Pack
 Created:     	2018-03-15
-Last Updated:	2018-03-15
+Last Updated:	2018-03-29
 ********************************************************
 
 ********General********
 ***********************
 
 .v Can you recieve voice?
-.std Check your Standard Pressure is set (STD 1013 hPA)
 
 .rclat Report your cleared level and Aircraft type
 .ratsm Report your Aircraft Type and Stand Number
-
-.rls /Please release $1 Thanks!
 
 .fs $radioname Hello, Squawk $squawk 
 .sqwk Confirm Squawk $squawk
@@ -104,15 +101,14 @@ Last Updated:	2018-03-15
 ********Ground***********
 *************************
 
-.p Push and Start approved
 .push Push and Start approved
 .ps Push and Start approved, face South
 .pn Push and Start approved, face North
 .pe Push and Start approved, face East
 .pw Push and Start approved, face West
 
-.vr Vacate right
-.vl Vacate left
+.vr Vacate right, hold at $1
+.vl Vacate left, hold at $1
 .vrt Vacate right, taxi $1
 .vlt Vacate left, taxi $1
 
@@ -144,7 +140,7 @@ Last Updated:	2018-03-15
 .to Runway $deprwy($dep), cleared for takeoff, surface wind $wind($dep)
 .tof From $1, Runway $deprwy($dep), cleared for takeoff, surface wind $wind($dep)
 
-.ca Continue approach runway $arrrwy($arr), Number $1\
+.ca Continue approach runway $arrrwy($arr), Number $1
 .land surface wind $wind($arr), runway $arrrwy($arr) cleared to land.
 .tg Cleared touch and go runway $arrrwy($arr), surface wind $wind($arr)
 .wind Surface Wind $wind($1)
@@ -171,8 +167,8 @@ Last Updated:	2018-03-15
 .ev Expect vectors for the $1 approach runway $arrrwy($arr)
 .lr Landing runway $arrrwy($arr)
 
-.ils Turn right heading $1, cleared ILS$1, Report fully established
-.ilss Turn left heading %1, cleared ILS$1, Report fully established
+.ils Turn right heading $1, cleared ILS$2, Report fully established
+.ilss Turn left heading $1, cleared ILS$2, Report fully established
 .cva Cleared visual approach runway $1. Report Runway in sight
 
 ********VFR****************
