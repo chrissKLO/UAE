@@ -35,3 +35,13 @@ RecentFiles	Recent11	UAE\Data\ASR\OMAA\Dhabi_Radar4.asr
 Plugins	Plugin1	UAE\Data\Plugins\HoldingList\HoldingListPlugin.dll
 Plugins	Plugin2	UAE\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin2Display0	SMR radar display
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Settings	alias	UAE\Data\Alias\alias.txt

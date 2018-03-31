@@ -47,10 +47,9 @@ Airports:OMRS:name
 Airports:OMRS:symbol
 Airports:OMSJ:name
 Airports:OMSJ:symbol
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -92,9 +91,6 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Free Text:Prohibited Areas\UNL/SFC:freetext
-Free Text:PROHIBITED_AREAS\P/0-15:freetext
-Free Text:Restricted Areas\UNL/SFC:freetext
 Free Text:SMA Abu Dhabi\T18:freetext
 Free Text:SMA Abu Dhabi\T20:freetext
 Free Text:SMA Abu Dhabi\T23:freetext

@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -51,12 +50,10 @@ ARTCC low boundary:OMSJ_CTZ:
 Geo:Coastline:
 NDBs:ABM:symbol
 NDBs:BH:symbol
-NDBs:ID:symbol
 NDBs:JD:symbol
 NDBs:RNZ:symbol
 NDBs:SIR:symbol
 NDBs:SYH:symbol
-NDBs:ZKU:symbol
 Runways:OMDB Dubai International 12L-30R:centerline
 Runways:OMDB Dubai International 12L-30R:extended centerline 1
 Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks
@@ -105,7 +102,7 @@ SHOWSB:1
 BELOW:800
 ABOVE:0
 LEADER:5
-SHOWLEADER:1
+SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:0
 SIMULATION_MODE:1
@@ -113,4 +110,17 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:UAE
-WINDOWAREA:24.598181:53.894693:26.264848:57.351048
+WINDOWAREA:24.539025:53.786864:26.205692:57.243220
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:17
+PLUGIN:Virtual Controller Assistant:CDYPOS:99
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:1
+PLUGIN:Virtual Controller Assistant:FADETRAIL:1
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:18
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:16776960
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:1

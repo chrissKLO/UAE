@@ -20,3 +20,4 @@ RecentFiles	Recent2	UAE\Data\ASR\Observer\Observer.asr
 Plugins	Plugin1	UAE\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 ASRFastKeys	1	UAE\Data\ASR\OMAA\Dhabi_SMR.asr
+Settings	alias	UAE\Data\Alias\alias.txt

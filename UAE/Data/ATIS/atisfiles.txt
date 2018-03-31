@@ -233,25 +233,28 @@ RECORD:x:x.wav
 RECORD:y:y.wav
 RECORD:z:z.wav
 ITEM:This is:XXX
-ITEM:OOMS:
+ITEM:Dubai international airport:XXX
 ITEM:information:XXX
-ITEM:D:
+ITEM:E:
 ITEM:at time:XXX
-ITEM:1550:
+ITEM:1300:
 ITEM:expect ILS approach:XXX
-ITEM:runway:XXX
-ITEM:08:
-ITEM:in use:XXX
-ITEM:transition level:XXX
-ITEM:55:
-ITEM:wind calm:XXX
+ITEM:arrival runway:XXX
+ITEM:30L:
+ITEM:departure runway:XXX
+ITEM:30R:
+ITEM:wind:XXX
+ITEM:320:
+ITEM:degrees:XXX
+ITEM:10:
+ITEM:knots:XXX
 ITEM:CAVOK:XXX
 ITEM:temperature:XXX
 ITEM:32:
 ITEM:dew point:XXX
-ITEM:23:
+ITEM:18:
 ITEM:QNH:XXX
-ITEM:1002:
+ITEM:1008:
 ITEM:NOSIG:XXX
-ITEM:advise on initial contact you have information:XXX
-ITEM:D:
+ITEM:advice ATC  that you copied information:XXX
+ITEM:E:

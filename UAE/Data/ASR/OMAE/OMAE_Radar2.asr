@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -56,9 +55,6 @@ NDBs:ABM:symbol
 NDBs:BH:frequency
 NDBs:BH:name
 NDBs:BH:symbol
-NDBs:ID:frequency
-NDBs:ID:name
-NDBs:ID:symbol
 NDBs:JD:frequency
 NDBs:JD:name
 NDBs:JD:symbol
@@ -71,9 +67,6 @@ NDBs:SIR:symbol
 NDBs:SYH:frequency
 NDBs:SYH:name
 NDBs:SYH:symbol
-NDBs:ZKU:frequency
-NDBs:ZKU:name
-NDBs:ZKU:symbol
 Runways:OMAA Abu Dhabi International 13L-31R:centerline
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 left ticks

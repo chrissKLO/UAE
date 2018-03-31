@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -65,12 +64,10 @@ Free Text:SMA Dubai\T60:freetext
 Geo:Coastline:
 NDBs:ABM:symbol
 NDBs:BH:symbol
-NDBs:ID:symbol
 NDBs:JD:symbol
 NDBs:RNZ:symbol
 NDBs:SIR:symbol
 NDBs:SYH:symbol
-NDBs:ZKU:symbol
 Runways:OMDB Dubai International 12L-30R:centerline
 Runways:OMDB Dubai International 12L-30R:extended centerline 1
 Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks

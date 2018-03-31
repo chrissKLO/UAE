@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -48,47 +47,16 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Free Text:Prohibited Areas\UNL/SFC:freetext
-Free Text:PROHIBITED_AREAS\P/0-15:freetext
-Free Text:Restricted Areas\UNL/SFC:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
+Free Text:Prohibited & Restricted Areas\P/0-15:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
 Geo:Coastline:
 NDBs:ABM:symbol
 NDBs:BH:symbol
-NDBs:ID:symbol
 NDBs:JD:symbol
 NDBs:RNZ:symbol
 NDBs:SIR:symbol
 NDBs:SYH:symbol
-NDBs:ZKU:symbol
 Runways:OMDB Dubai International 12L-30R:centerline
 Runways:OMDB Dubai International 12L-30R:extended centerline 1
 Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks

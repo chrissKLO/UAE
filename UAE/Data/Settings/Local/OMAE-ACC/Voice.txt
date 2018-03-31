@@ -17,4 +17,5 @@ AG:Abu Dhabi Intl. Information:119.675:voice1.vatsim-germany.org:omaa_atis
 AG:Sharjah Intl. Information:122.400:voice1.vatsim-germany.org:OMSJ_ATIS
 AG:Ras Al Khaimah Information:126.075:voice1.vatsim-germany.org:OMRK_ATIS
 AG:Fujairah Information:118.000:voice1.vatsim-germany.org:OMFJ_ATIS
+AG:UAE Radar (Bandbox):119.300:voice2.vatsim-germany.org:omae_ctr
 END

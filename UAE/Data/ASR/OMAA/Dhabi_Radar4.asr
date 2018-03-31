@@ -48,6 +48,57 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
+Free Text:Altitude Limits\AA 15-115:freetext
+Free Text:Altitude Limits\AA 15-145:freetext
+Free Text:Altitude Limits\AA 15-145:freetext
+Free Text:Altitude Limits\AL 20-95:freetext
+Free Text:Altitude Limits\AL 20-95:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 25-145:freetext
+Free Text:Altitude Limits\DB 30-145:freetext
+Free Text:Altitude Limits\DB 30-145:freetext
+Free Text:Altitude Limits\DB 45-95:freetext
+Free Text:Altitude Limits\DB 65-145:freetext
+Free Text:Altitude Limits\DBN 85-145:freetext
+Free Text:Altitude Limits\DBS 15-85:freetext
+Free Text:Altitude Limits\FJ 15-95:freetext
+Free Text:Altitude Limits\FJ 15-95:freetext
+Free Text:Altitude Limits\FJ 20-95:freetext
+Free Text:Altitude Limits\FJ 20-95:freetext
+Free Text:Altitude Limits\OMAE 45+:freetext
+Free Text:Altitude Limits\RK 15-65:freetext
+Free Text:Altitude Limits\RK 15-65:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
 Geo:Coastline:
 NDBs:ABM:frequency
 NDBs:ABM:name

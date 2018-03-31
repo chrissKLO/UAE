@@ -48,35 +48,14 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
+Free Text:Prohibited & Restricted Areas\P/0-15:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:SMA Abu Dhabi\T18:freetext
+Free Text:SMA Abu Dhabi\T20:freetext
+Free Text:SMA Abu Dhabi\T23:freetext
+Free Text:SMA Abu Dhabi\T30:freetext
+Free Text:SMA Abu Dhabi\T30:freetext
 Geo:Coastline:
 Runways:OMAA Abu Dhabi International 13L-31R:centerline
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1

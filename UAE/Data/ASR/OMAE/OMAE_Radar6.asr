@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -192,21 +191,12 @@ Fixes:ABM27:symbol
 Fixes:AD301:symbol
 Fixes:AD302:symbol
 Fixes:AD303:symbol
-Fixes:AD304:symbol
-Fixes:AD305:symbol
 Fixes:AD306:symbol
 Fixes:AD361:symbol
-Fixes:AD501:symbol
 Fixes:AD502:symbol
 Fixes:AD503:symbol
-Fixes:AD508:symbol
 Fixes:AD509:symbol
 Fixes:AD510:symbol
-Fixes:AD550:symbol
-Fixes:AD551:symbol
-Fixes:AD552:symbol
-Fixes:AD553:symbol
-Fixes:AD560:symbol
 Fixes:AD722:symbol
 Fixes:AD741:symbol
 Fixes:AD801:symbol
@@ -257,7 +247,6 @@ Fixes:ALNEV:symbol
 Fixes:ALNUM:symbol
 Fixes:ALPOB:symbol
 Fixes:ALRAR:symbol
-Fixes:ALREM:symbol
 Fixes:ALSEM:symbol
 Fixes:ALSIL:symbol
 Fixes:ALSOV:symbol
@@ -304,7 +293,6 @@ Fixes:CD13:symbol
 Fixes:CIMAH:symbol
 Fixes:CQ26:symbol
 Fixes:CUMAH:symbol
-Fixes:D006F:symbol
 Fixes:D100K:symbol
 Fixes:D115N:symbol
 Fixes:D174K:symbol
@@ -313,7 +301,6 @@ Fixes:D300M:symbol
 Fixes:D318L:symbol
 Fixes:D330K:symbol
 Fixes:D335O:symbol
-Fixes:DAMOR:symbol
 Fixes:DAMUK:symbol
 Fixes:DANED:symbol
 Fixes:DANIG:symbol
@@ -408,16 +395,11 @@ Fixes:DB580:symbol
 Fixes:DB581:symbol
 Fixes:DB601:symbol
 Fixes:DB612:symbol
-Fixes:DB613:symbol
 Fixes:DB614:symbol
-Fixes:DB656:symbol
 Fixes:DB657:symbol
 Fixes:DB658:symbol
 Fixes:DB701:symbol
-Fixes:DB710:symbol
 Fixes:DB713:symbol
-Fixes:DB757:symbol
-Fixes:DB758:symbol
 Fixes:DB759:symbol
 Fixes:DB780:symbol
 Fixes:DEBKI:symbol
@@ -473,7 +455,6 @@ Fixes:DW762:symbol
 Fixes:EGLIR:symbol
 Fixes:EGLOP:symbol
 Fixes:EGMAP:symbol
-Fixes:EGMEL:symbol
 Fixes:EGNOT:symbol
 Fixes:EGPEP:symbol
 Fixes:EGPOG:symbol
@@ -487,7 +468,6 @@ Fixes:ELAVU:symbol
 Fixes:ELEPO:symbol
 Fixes:ELIGA:symbol
 Fixes:ELOBI:symbol
-Fixes:ELONU:symbol
 Fixes:ELOVU:symbol
 Fixes:ELUDA:symbol
 Fixes:EMATI:symbol
@@ -920,7 +900,6 @@ Fixes:SOGAP:symbol
 Fixes:SOKAK:symbol
 Fixes:SOKOV:symbol
 Fixes:SOLIL:symbol
-Fixes:SUTVA:symbol
 Fixes:SUTVO:symbol
 Fixes:SUVDU:symbol
 Fixes:TADBU:symbol

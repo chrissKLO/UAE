@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -48,41 +47,41 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Free Text:CTA\AA 15-115:freetext
-Free Text:CTA\AA 15-145:freetext
-Free Text:CTA\AA 15-145:freetext
-Free Text:CTA\AL 20-95:freetext
-Free Text:CTA\AL 20-95:freetext
-Free Text:CTA\DB 15-145:freetext
-Free Text:CTA\DB 15-145:freetext
-Free Text:CTA\DB 15-145:freetext
-Free Text:CTA\DB 25-145:freetext
-Free Text:CTA\DB 30-145:freetext
-Free Text:CTA\DB 30-145:freetext
-Free Text:CTA\DB 45-95:freetext
-Free Text:CTA\DB 65-145:freetext
-Free Text:CTA\DBN 85-145:freetext
-Free Text:CTA\DBS 15-85:freetext
-Free Text:CTA\FJ 15-95:freetext
-Free Text:CTA\FJ 15-95:freetext
-Free Text:CTA\FJ 20-95:freetext
-Free Text:CTA\FJ 20-95:freetext
-Free Text:CTA\OMAE 45+:freetext
-Free Text:CTA\RK 15-65:freetext
-Free Text:CTA\RK 15-65:freetext
-Free Text:CTR/FIR\AA CTR:freetext
-Free Text:CTR/FIR\AD CTR:freetext
-Free Text:CTR/FIR\AL CTR:freetext
-Free Text:CTR/FIR\BAHRAIN FIR:freetext
-Free Text:CTR/FIR\BAHRAIN FIR:freetext
-Free Text:CTR/FIR\DB CTR:freetext
-Free Text:CTR/FIR\FJ CTR:freetext
-Free Text:CTR/FIR\MUSCAT FIR:freetext
-Free Text:CTR/FIR\RK CTR:freetext
-Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
-Free Text:CTR/FIR\SAUDI ARABIA FIR:freetext
-Free Text:CTR/FIR\SJ CTR:freetext
-Free Text:CTR/FIR\TEHRAN FIR:freetext
+Free Text:ACCs\Bahrain ACC | OBBB:freetext
+Free Text:ACCs\Bahrain ACC | OBBB:freetext
+Free Text:ACCs\Iran ACC | OIIX:freetext
+Free Text:ACCs\Oman ACC | OOMM:freetext
+Free Text:ACCs\Saudi ACC | OEJD:freetext
+Free Text:ACCs\Saudi ACC | OEJD:freetext
+Free Text:Aerodrome CTRs\AA CTR:freetext
+Free Text:Aerodrome CTRs\AD CTR:freetext
+Free Text:Aerodrome CTRs\AL CTR:freetext
+Free Text:Aerodrome CTRs\DB CTR:freetext
+Free Text:Aerodrome CTRs\FJ CTR:freetext
+Free Text:Aerodrome CTRs\RK CTR:freetext
+Free Text:Aerodrome CTRs\SJ CTR:freetext
+Free Text:Altitude Limits\AA 15-115:freetext
+Free Text:Altitude Limits\AA 15-145:freetext
+Free Text:Altitude Limits\AA 15-145:freetext
+Free Text:Altitude Limits\AL 20-95:freetext
+Free Text:Altitude Limits\AL 20-95:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 15-145:freetext
+Free Text:Altitude Limits\DB 25-145:freetext
+Free Text:Altitude Limits\DB 30-145:freetext
+Free Text:Altitude Limits\DB 30-145:freetext
+Free Text:Altitude Limits\DB 45-95:freetext
+Free Text:Altitude Limits\DB 65-145:freetext
+Free Text:Altitude Limits\DBN 85-145:freetext
+Free Text:Altitude Limits\DBS 15-85:freetext
+Free Text:Altitude Limits\FJ 15-95:freetext
+Free Text:Altitude Limits\FJ 15-95:freetext
+Free Text:Altitude Limits\FJ 20-95:freetext
+Free Text:Altitude Limits\FJ 20-95:freetext
+Free Text:Altitude Limits\OMAE 45+:freetext
+Free Text:Altitude Limits\RK 15-65:freetext
+Free Text:Altitude Limits\RK 15-65:freetext
 Geo:Coastline:
 Geo:OMFJ Taxiways:
 Runways:OMAA Abu Dhabi International 13L-31R:centerline

@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -48,6 +47,49 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
+Free Text:SMA Dubai\T15:freetext
+Free Text:SMA Dubai\T17:freetext
+Free Text:SMA Dubai\T20:freetext
+Free Text:SMA Dubai\T20:freetext
+Free Text:SMA Dubai\T21:freetext
+Free Text:SMA Dubai\T21:freetext
+Free Text:SMA Dubai\T23:freetext
+Free Text:SMA Dubai\T24:freetext
+Free Text:SMA Dubai\T25:freetext
+Free Text:SMA Dubai\T28:freetext
+Free Text:SMA Dubai\T40:freetext
+Free Text:SMA Dubai\T40:freetext
+Free Text:SMA Dubai\T50:freetext
+Free Text:SMA Dubai\T60:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
 Geo:Coastline:
 NDBs:ABM:frequency
 NDBs:ABM:name
@@ -55,9 +97,6 @@ NDBs:ABM:symbol
 NDBs:BH:frequency
 NDBs:BH:name
 NDBs:BH:symbol
-NDBs:ID:frequency
-NDBs:ID:name
-NDBs:ID:symbol
 NDBs:JD:frequency
 NDBs:JD:name
 NDBs:JD:symbol
@@ -70,9 +109,6 @@ NDBs:SIR:symbol
 NDBs:SYH:frequency
 NDBs:SYH:name
 NDBs:SYH:symbol
-NDBs:ZKU:frequency
-NDBs:ZKU:name
-NDBs:ZKU:symbol
 Runways:OMDB Dubai International 12L-30R:centerline
 Runways:OMDB Dubai International 12L-30R:extended centerline 1
 Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks

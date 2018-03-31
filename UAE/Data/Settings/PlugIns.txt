@@ -13,3 +13,4 @@ Holding List:ACList/Holding list/m_Column_4:TIM:6:1:2:0:0:1:Holding List::
 Holding List:ACList/Holding list/m_Column_5:REM:6:1:3:2:0:1:Holding List:Holding List:
 vSMR:cpdlc_logon:OMDB
 vSMR:cpdlc_sound:0
+Virtual Controller Assistant:SERVERLOCATION:https://vca.craig-phillips.uk/

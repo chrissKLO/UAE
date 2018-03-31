@@ -19,4 +19,4 @@ ASRFastKeys	1	UAE\Data\ASR\OMSJ\Sharjah_SMR.asr
 RecentFiles	Recent1	UAE\Data\ASR\OMSJ\Sharjah_SMR.asr
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin1	UAE\Data\Plugins\vSMR_1.3.3\vSMR.dll
-
+Settings	alias	UAE\Data\Alias\alias.txt

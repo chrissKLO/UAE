@@ -15,3 +15,11 @@ Settings	SettingsfileSCREEN	UAE\Data\Settings\Observer\ScreenLayout.txt
 Settings	AtisFolder	UAE\Data\ATIS\atisfiles.txt
 Plugins	Plugin0	UAE\Data\Plugins\VirtualControllerAssistant.dll
 RecentFiles	Recent1	UAE\Data\ASR\Observer\Observer.asr
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	alias	UAE\Data\Alias\alias.txt

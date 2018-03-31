@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -48,35 +47,66 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_A_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_B_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_D_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_E_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_I_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
-Free Text:UAE-CTRs\OMAE_W_CTR:freetext
+Free Text:Prohibited & Restricted Areas\P/0-15:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:Prohibited & Restricted Areas\UNL/SFC:freetext
+Free Text:SMA Abu Dhabi\T18:freetext
+Free Text:SMA Abu Dhabi\T20:freetext
+Free Text:SMA Abu Dhabi\T23:freetext
+Free Text:SMA Abu Dhabi\T30:freetext
+Free Text:SMA Abu Dhabi\T30:freetext
+Free Text:SMA Dubai\T15:freetext
+Free Text:SMA Dubai\T17:freetext
+Free Text:SMA Dubai\T20:freetext
+Free Text:SMA Dubai\T20:freetext
+Free Text:SMA Dubai\T21:freetext
+Free Text:SMA Dubai\T21:freetext
+Free Text:SMA Dubai\T23:freetext
+Free Text:SMA Dubai\T24:freetext
+Free Text:SMA Dubai\T25:freetext
+Free Text:SMA Dubai\T28:freetext
+Free Text:SMA Dubai\T40:freetext
+Free Text:SMA Dubai\T40:freetext
+Free Text:SMA Dubai\T50:freetext
+Free Text:SMA Dubai\T60:freetext
+Free Text:SMA Ras Al Khaimah\T15:freetext
+Free Text:SMA Ras Al Khaimah\T20:freetext
+Free Text:SMA Ras Al Khaimah\T21:freetext
+Free Text:SMA Ras Al Khaimah\T25:freetext
+Free Text:SMA Ras Al Khaimah\T30:freetext
+Free Text:SMA Ras Al Khaimah\T40:freetext
+Free Text:SMA Ras Al Khaimah\T45:freetext
+Free Text:SMA Ras Al Khaimah\T55:freetext
+Free Text:SMA Ras Al Khaimah\T70:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_A_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_B_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_D_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_E_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_I_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
+Free Text:U.A.E Enroute Sector Splits\OMAE_W_CTR:freetext
 Geo:Coastline:
 Geo:OMFJ Taxiways:
 Runways:OMAA Abu Dhabi International 13L-31R:centerline

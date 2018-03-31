@@ -17,3 +17,4 @@ Plugins	Plugin0	UAE\Data\Plugins\VirtualControllerAssistant.dll
 Plugins	Plugin1Display0	SMR radar display
 RecentFiles	Recent1	UAE\Data\ASR\OMDB\Dubai_SMR.asr
 Plugins	Plugin1	UAE\Data\Plugins\vSMR_1.3.3\vSMR.dll
+Settings	alias	UAE\Data\Alias\alias.txt
