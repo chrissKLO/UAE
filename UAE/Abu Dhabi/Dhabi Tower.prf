@@ -22,3 +22,4 @@ Settings	FreqKey	3604480
 ASRFastKeys	1	UAE\Data\ASR\OMAA\Dhabi_Tower.asr
 ASRFastKeys	2	UAE\Data\ASR\OMAA\Dhabi_SMR.asr
 Settings	alias	UAE\Data\Alias\alias.txt
+Plugins	Plugin0Display0	Standard ES radar screen

@@ -3,10 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:UAE\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
-ARTCC boundary:OBBB:
-ARTCC boundary:OIIX:
-ARTCC boundary:OMAE:
-ARTCC boundary:OOMM:
+ARTCC boundary:Bahrain ACC:
+ARTCC boundary:Tehran ACC:
+ARTCC boundary:UAE ACC:
 ARTCC low boundary:OMAA_APP_AREA_I:
 ARTCC low boundary:OMAA_APP_AREA_II:
 ARTCC low boundary:OMAA_APP_AREA_III:
@@ -48,9 +47,6 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Free Text:Prohibited Areas\UNL/SFC:freetext
-Free Text:PROHIBITED_AREAS\P/0-15:freetext
-Free Text:Restricted Areas\UNL/SFC:freetext
 Free Text:SMA Abu Dhabi\T18:freetext
 Free Text:SMA Abu Dhabi\T20:freetext
 Free Text:SMA Abu Dhabi\T23:freetext
@@ -110,7 +106,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:UAE
-WINDOWAREA:23.765886:52.900900:25.305904:56.094611
+WINDOWAREA:23.573383:52.501686:25.498407:56.493825
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:0
 PLUGIN:Virtual Controller Assistant:CDXPOS:100

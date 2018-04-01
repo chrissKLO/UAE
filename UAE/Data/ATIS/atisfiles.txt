@@ -235,26 +235,34 @@ RECORD:z:z.wav
 ITEM:This is:XXX
 ITEM:Dubai international airport:XXX
 ITEM:information:XXX
-ITEM:E:
+ITEM:C:
 ITEM:at time:XXX
-ITEM:1300:
+ITEM:1500:
 ITEM:expect ILS approach:XXX
 ITEM:arrival runway:XXX
 ITEM:30L:
 ITEM:departure runway:XXX
 ITEM:30R:
 ITEM:wind:XXX
-ITEM:320:
+ITEM:260:
 ITEM:degrees:XXX
-ITEM:10:
+ITEM:7:
 ITEM:knots:XXX
-ITEM:CAVOK:XXX
+ITEM:variable between:XXX
+ITEM:210:
+ITEM:and:XXX
+ITEM:280:
+ITEM:degrees:XXX
+ITEM:visibility:XXX
+ITEM:8:
+ITEM:kilometers:XXX
+ITEM:no significant clouds:XXX
 ITEM:temperature:XXX
-ITEM:32:
+ITEM:30:
 ITEM:dew point:XXX
-ITEM:18:
+ITEM:14:
 ITEM:QNH:XXX
 ITEM:1008:
 ITEM:NOSIG:XXX
 ITEM:advice ATC  that you copied information:XXX
-ITEM:E:
+ITEM:C:

@@ -41,3 +41,11 @@ RecentFiles	Recent10	UAE\Data\ASR\Observer\Observer.asr
 Settings	alias	UAE\Data\Alias\alias.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
+Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

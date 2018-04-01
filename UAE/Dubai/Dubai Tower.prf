@@ -21,3 +21,12 @@ Plugins	Plugin1Display0	SMR radar display
 ASRFastKeys	1	UAE\Data\ASR\OMDB\Dubai_Tower.asr
 ASRFastKeys	2	UAE\Data\ASR\OMDB\Dubai_SMR.asr
 Settings	alias	UAE\Data\Alias\alias.txt
+RecentFiles	Recent2	UAE\Data\ASR\OMDB\Dubai_SMR.asr
+Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	100
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
