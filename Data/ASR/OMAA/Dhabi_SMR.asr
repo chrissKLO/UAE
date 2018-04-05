@@ -1,7 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 Free Text:OMAA Ground Misc\1:freetext
 Free Text:OMAA Ground Misc\1:freetext

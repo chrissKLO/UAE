@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 ARTCC boundary:Bahrain ACC:
 ARTCC boundary:Muscat ACC:
@@ -83,8 +83,8 @@ Free Text:Altitude Limits\FJ 20-95:freetext
 Free Text:Altitude Limits\OMAE 45+:freetext
 Free Text:Altitude Limits\RK 15-65:freetext
 Free Text:Altitude Limits\RK 15-65:freetext
+Geo:Coastline:
 Geo:OMFJ Taxiways:
-Regions:UAE_Water:polygon
 Runways:OMAA Abu Dhabi International 13L-31R:centerline
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 left ticks

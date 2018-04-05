@@ -16,10 +16,13 @@ Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
 Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
 RecentFiles	Recent1	UAE-Master\Data\ASR\OMAA\Dhabi_Tower.asr
 Settings	SettingsfileVCCS	UAE-Master\Data\Settings\VCCS.txt
-RecentFiles	Recent2	UAE-Master\Data\ASR\Observer\Observer.asr
+RecentFiles	Recent2	UAE-Master\Data\ASR\OMAA\Dhabi_SMR.asr
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 ASRFastKeys	1	UAE-Master\Data\ASR\OMAA\Dhabi_Tower.asr
 ASRFastKeys	2	UAE-Master\Data\ASR\OMAA\Dhabi_SMR.asr
 Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0Display0	Standard ES radar screen
+RecentFiles	Recent3	UAE-Master\Data\ASR\Observer\Observer.asr
+Plugins	Plugin1	UAE-master\Data\Plugins\vSMR_1.3.3\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display

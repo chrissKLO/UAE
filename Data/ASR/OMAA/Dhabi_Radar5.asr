@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 ARTCC boundary:Bahrain ACC:
 ARTCC boundary:Muscat ACC:
@@ -969,7 +969,7 @@ Fixes:VUXOD:symbol
 Fixes:XAKUM:symbol
 Fixes:XARTA:symbol
 Fixes:YOUNS:symbol
-Regions:UAE_Water:polygon
+Geo:Coastline:
 Runways:OMAA Abu Dhabi International 13L-31R:centerline
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 left ticks

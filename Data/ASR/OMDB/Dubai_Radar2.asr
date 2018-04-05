@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 ARTCC boundary:Bahrain ACC:
 ARTCC boundary:Muscat ACC:
@@ -77,8 +77,7 @@ Free Text:Altitude Limits\FJ 20-95:freetext
 Free Text:Altitude Limits\OMAE 45+:freetext
 Free Text:Altitude Limits\RK 15-65:freetext
 Free Text:Altitude Limits\RK 15-65:freetext
-Regions:UAE_Water:polygon
-NDBs:ABM:symbol
+Geo:Coastline:
 NDBs:BH:symbol
 NDBs:JD:symbol
 NDBs:RNZ:symbol

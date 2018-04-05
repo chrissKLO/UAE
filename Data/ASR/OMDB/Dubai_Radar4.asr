@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 ARTCC boundary:Bahrain ACC:
 ARTCC boundary:Muscat ACC:
@@ -62,13 +62,12 @@ Free Text:SMA Dubai\T40:freetext
 Free Text:SMA Dubai\T40:freetext
 Free Text:SMA Dubai\T50:freetext
 Free Text:SMA Dubai\T60:freetext
-Regions:UAE_Water:polygon
+Geo:Coastline:
 NDBs:ABM:symbol
 NDBs:BH:symbol
 NDBs:JD:symbol
 NDBs:RNZ:symbol
 NDBs:SIR:symbol
-NDBs:SYH:symbol
 Runways:OMDB Dubai International 12L-30R:centerline
 Runways:OMDB Dubai International 12L-30R:extended centerline 1
 Runways:OMDB Dubai International 12L-30R:extended centerline 1 left ticks

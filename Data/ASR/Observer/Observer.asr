@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 ARTCC boundary:Bahrain ACC:
 ARTCC boundary:Muscat ACC:
@@ -48,41 +48,7 @@ ARTCC low boundary:OMR71:
 ARTCC low boundary:OMR72:
 ARTCC low boundary:OMRK_APP_AREA:
 ARTCC low boundary:OMSJ_CTZ:
-Geo:GEO:
-Geo:OMAA 0:
-Geo:OMAB Taxiways:
-Geo:OMAC Taxiways:
-Geo:OMAD Taxiways:
-Geo:OMAF Taxiways:
-Geo:OMAH Taxiways:
-Geo:OMAJ Taxiways:
-Geo:OMAL Taxiways:
-Geo:OMAM Taxiways:
-Geo:OMAQ Taxiways:
-Geo:OMAR Taxiways:
-Geo:OMAS Taxiways:
-Geo:OMAZ Taxiways:
-Geo:OMDB Taxiways:
-Geo:OMDM Taxiways:
-Geo:OMDW Taxiways:
-Geo:OMFJ Taxiways:
-Geo:OMRK Taxiways:
-Geo:OMRS Taxiways:
-Geo:OMSJ Taxiways:
-NDBs:ABM:symbol
-NDBs:BH:symbol
-NDBs:JD:symbol
-NDBs:RNZ:symbol
-NDBs:SIR:symbol
-NDBs:SYH:symbol
-Regions:OMAA_SMR:polygon
-Regions:OMDB_SMR:polygon
-Regions:OMDM_SMR:polygon
-Regions:OMDW_SMR:polygon
-Regions:OMFJ_SMR:polygon
-Regions:OMRK_SMR:polygon
-Regions:OMSJ_SMR:polygon
-Regions:UAE_Water:polygon
+Geo:Coastline:
 Runways:OMAA Abu Dhabi International 13L-31R:centerline
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 left ticks

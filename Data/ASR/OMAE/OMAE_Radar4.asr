@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:UAE-master\Data\Sector\UAE.sct
+SECTORFILE:UAE-Master\Data\Sector\UAE.sct
 SECTORTITLE:UAE.sct
 Airports:OMAA:name
 Airports:OMAA:symbol
@@ -120,7 +120,7 @@ Free Text:SMA Ras Al Khaimah\T40:freetext
 Free Text:SMA Ras Al Khaimah\T45:freetext
 Free Text:SMA Ras Al Khaimah\T55:freetext
 Free Text:SMA Ras Al Khaimah\T70:freetext
-Regions:UAE_Water:polygon
+Geo:Coastline:
 Runways:OMAA Abu Dhabi International 13L-31R:centerline
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1
 Runways:OMAA Abu Dhabi International 13L-31R:extended centerline 1 left ticks
