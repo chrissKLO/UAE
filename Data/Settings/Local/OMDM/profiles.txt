@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:OMDM_APP:150:5
+ATIS2:Al-Minhad Approach
+ATIS3:Report callsign with position first contact. 
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OMAE | Military Airspace
+END

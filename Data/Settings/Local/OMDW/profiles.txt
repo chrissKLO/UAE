@@ -1,0 +1,6 @@
+PROFILE
+PROFILE:OMDW_APP:150:5
+ATIS2:Al-Maktoum Radar
+ATIS3:Report callsign with position first contact. 
+ATIS4:DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+END

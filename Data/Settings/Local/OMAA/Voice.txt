@@ -8,5 +8,6 @@ AG:Abu Dhabi Tower (North Sector):118.675:voice1.vatsim-germany.org:OMAA_N_TWR
 AG:Abu Dhabi Arrivals:135.350:voice1.vatsim-germany.org:omaa_app
 AG:Abu Dhabi Arrivals (East Sector):132.675:voice1.vatsim-germany.org:omaa_e_app
 AG:Abu Dhabi Arrivals (West Sector):128.100:voice1.vatsim-germany.org:omaa_w_app
+AG:Abu Dhabi Arrivals (Cenrral Sector):124.400:voice1.vatsim-germany.org:omaa_c_app
 AG:Abu Dhabi Radar:124.400:voice1.vatsim-germany.org:omaa_c_app
 END

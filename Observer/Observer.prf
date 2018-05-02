@@ -24,3 +24,5 @@ LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
 Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	callsign	<Initials>_OBS
+LastSession	atis2	UAE ATC OBSERVER

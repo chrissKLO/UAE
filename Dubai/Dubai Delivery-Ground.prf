@@ -19,3 +19,9 @@ RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
 Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	atis2	Dubai Ground
+LastSession	atis3	Report callsign with position first contact. Monitor ATIS 131.700.
+LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+LastSession	range	20
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

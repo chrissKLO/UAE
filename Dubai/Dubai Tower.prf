@@ -24,9 +24,13 @@ Settings	alias	UAE-Master\Data\Alias\alias.txt
 RecentFiles	Recent2	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
 Plugins	Plugin0Display0	Standard ES radar screen
 LastSession	connecttype	0
-LastSession	facility	0
-LastSession	rating	0
+LastSession	facility	4
+LastSession	rating	4
 LastSession	tovatsim	1
-LastSession	range	100
+LastSession	range	40
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
+LastSession	callsign	OMDB_TWR
+LastSession	atis2	Dubai Tower
+LastSession	atis3	Report callsign with position first contact. Monitor ATIS 131.700.
+LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE

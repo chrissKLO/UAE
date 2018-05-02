@@ -28,16 +28,27 @@ ASRFastKeys	6	UAE-Master\Data\ASR\OMDB\Dubai_Radar6.asr
 ASRFastKeys	7	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
 ASRFastKeys	8	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
 ASRFastKeys	9	UAE-Master\Data\ASR\OMDW\Maktoum_SMR.asr
-RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_Radar6.asr
-RecentFiles	Recent2	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
+RecentFiles	Recent1	UAE-Master\Data\ASR\OMDB\Dubai_Radar1.asr
+RecentFiles	Recent2	UAE-Master\Data\ASR\OMDW\Maktoum_SMR.asr
 RecentFiles	Recent3	UAE-Master\Data\ASR\OMSJ\Sharjah_SMR.asr
-RecentFiles	Recent4	UAE-Master\Data\ASR\OMDB\Dubai_Radar1.asr
-RecentFiles	Recent5	UAE-Master\Data\ASR\OMDB\Dubai_Radar2.asr
-RecentFiles	Recent6	UAE-Master\Data\ASR\OMDB\Dubai_Radar3.asr
+RecentFiles	Recent4	UAE-Master\Data\ASR\OMDB\Dubai_SMR.asr
+RecentFiles	Recent5	UAE-Master\Data\ASR\OMDB\Dubai_Radar6.asr
+RecentFiles	Recent6	UAE-Master\Data\ASR\OMDB\Dubai_Radar5.asr
 RecentFiles	Recent7	UAE-Master\Data\ASR\OMDB\Dubai_Radar4.asr
-RecentFiles	Recent8	UAE-Master\Data\ASR\OMDB\Dubai_Radar5.asr
-RecentFiles	Recent9	UAE-Master\Data\ASR\OMDW\Maktoum_SMR.asr
+RecentFiles	Recent8	UAE-Master\Data\ASR\OMDB\Dubai_Radar3.asr
+RecentFiles	Recent9	UAE-Master\Data\ASR\OMDB\Dubai_Radar2.asr
 Settings	alias	UAE-Master\Data\Alias\alias.txt
 LastSession	atis_airport	OMDB
 LastSession	atis_letter	69
 Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	connecttype	0
+LastSession	callsign	OMDB_APP
+LastSession	facility	5
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	atis2	Dubai Arrivals
+LastSession	atis3	Arrivals report callsign, passing level, and aircraft type. Monitor OMDB ATIS 131.700.
+LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
+LastSession	range	80
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
