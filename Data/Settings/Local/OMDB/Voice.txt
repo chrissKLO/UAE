@@ -12,6 +12,4 @@ AG:Dubai Arrivals:124.450:voice1.vatsim-germany.org:omdb_app
 AG:Dubai Arrivals (North Sector):124.450:voice1.vatsim-germany.org:OMDB_N_APP
 AG:Dubai Arrivals (South Sector):124.900:voice1.vatsim-germany.org:OMDB_S_APP
 AG:Dubai Director:127.900:voice1.vatsim-germany.org:OMDB_F_APP
-AG:Al-Minhad Approach:122.500:voice1.vatsim-germany.org:omdm_app
-AG:Al-Maktoum Radar:124.025:voice1.vatsim-germany.org:omdw_app
 END

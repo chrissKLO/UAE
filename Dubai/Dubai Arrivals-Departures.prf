@@ -14,7 +14,9 @@ Settings	SettingsfilePLUGINS	UAE-Master\Data\Settings\PlugIns.txt
 Settings	SettingsfileSCREEN	UAE-Master\Data\Settings\Tower_Approach\ScreenLayout.txt
 Settings	SettingsfileVCCS	UAE-Master\Data\Settings\VCCS.txt
 Settings	AtisFolder	UAE-Master\Data\ATIS\atisfiles.txt
+Settings	alias	UAE-Master\Data\Alias\alias.txt
 Plugins	Plugin0	UAE-Master\Data\Plugins\VirtualControllerAssistant.dll
+Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	UAE-Master\Data\Plugins\vSMR_1.3.3\vSMR.dll
 Plugins	Plugin1Display0	SMR radar display
 Plugins	Plugin2	UAE-Master\Data\Plugins\HoldingList\HoldingListPlugin.dll
@@ -37,18 +39,3 @@ RecentFiles	Recent6	UAE-Master\Data\ASR\OMDB\Dubai_Radar5.asr
 RecentFiles	Recent7	UAE-Master\Data\ASR\OMDB\Dubai_Radar4.asr
 RecentFiles	Recent8	UAE-Master\Data\ASR\OMDB\Dubai_Radar3.asr
 RecentFiles	Recent9	UAE-Master\Data\ASR\OMDB\Dubai_Radar2.asr
-Settings	alias	UAE-Master\Data\Alias\alias.txt
-LastSession	atis_airport	OMDB
-LastSession	atis_letter	69
-Plugins	Plugin0Display0	Standard ES radar screen
-LastSession	connecttype	0
-LastSession	callsign	OMDB_APP
-LastSession	facility	5
-LastSession	rating	0
-LastSession	tovatsim	1
-LastSession	atis2	Dubai Arrivals
-LastSession	atis3	Arrivals report callsign, passing level, and aircraft type. Monitor OMDB ATIS 131.700.
-LastSession	atis4	DO NOT CALL FOR FLIGHTPLAN CLEARANCE! Charts/procedures @ www.vatame.org/vacc/OMAE
-LastSession	range	80
-LastSession	proxyserver	localhost
-LastSession	simdatapublish	0
