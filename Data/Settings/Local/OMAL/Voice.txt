@@ -1,5 +1,0 @@
-VOICE
-AG:Al Ain Ground:129.150:voice1.vatsim-germany.org:OMAL_GND
-AG:Al Ain Tower:119.850:voice1.vatsim-germany.org:OMAL_TWR
-AG:Al Ain Approach:132.670:voice1.vatsim-germany.org:OMAL_APP
-END
